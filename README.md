@@ -9,4 +9,4 @@ does : frontend (next.js or react), backend(node.js, python) , android developme
 Projects done
 
 find me here
-[LinkedIn](https://www.linkedin.com/in/brevian-jekem-134ba631a?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [Telegram](@brevianJekem)
+[LinkedIn](https://www.linkedin.com/in/brevian-jekem-134ba631a?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [Telegram](https://t.me/brevianJekem)
