@@ -3,7 +3,13 @@
 ![Brevian Jekem](./brevian_dots_v2.svg)
 ## About Me
 
-I'm a passionate software developer dedicated to building efficient, scalable full-stack applications. My journey started in 2024, and since then I've shipped internship-matching platforms, ML-powered habit trackers, HR management systems, and more — always aiming for clean, intentional design with no wasted complexity.
+developer | creator | founder
+
+been coding since 2024, now building cool stuff
+
+does : frontend (next.js or react), backend(node.js, python) , android development ( kotlin & flutter )
+
+
 
 ## Stack
 
