@@ -1,4 +1,3 @@
-# My official name is Brevian Jekem
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
 <rect width="500" height="100" fill="#0d1117"/>
 <circle cx="175" cy="20" r="1.3" fill="#FFD60A"/>
