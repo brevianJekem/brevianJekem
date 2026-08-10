@@ -1,1 +1,3 @@
-# My official name is Brevian Jekem ![Brevian Jekem](./brevian_dots.svg2)
+# My official name is Brevian Jekem
+
+![Brevian Jekem](./brevian_dots_v2.svg)
