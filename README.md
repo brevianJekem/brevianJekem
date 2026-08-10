@@ -19,7 +19,7 @@ Bellow are some of the tools I use for development.
 
 ## Projects
 
-I am currently engaged in several exciting projects, each with its own unique focus and contribution to the digital landscape: Pleases check them [here](brevian.online).
+I am currently engaged in several exciting projects, each with its own unique focus and contribution to the digital landscape: Pleases check them [here](https://brevian.online).
 
 ## Skills
 
