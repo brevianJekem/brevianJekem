@@ -13,7 +13,7 @@ does : frontend (next.js or react), backend(node.js, python) , android developme
 
 ## Stack
 
-Bellow are some of the tools I use for development.
+Below are some of the tools I use for development.
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,flask,python,java,mysql,postgres,tailwind,kotlin,flutter,git,github)
 
